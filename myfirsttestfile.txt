@@ -1,2 +1,1 @@
-My first test file
-Second line added
+my second file.
